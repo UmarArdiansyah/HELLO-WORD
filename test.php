@@ -1,3 +1,8 @@
 <?php
-	echo "Project Pertama";
+	echo "Project Pertama /n";
+	echo "Push lagi /n";
+	
+	
 ?>
+
+
